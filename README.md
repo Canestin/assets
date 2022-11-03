@@ -2,4 +2,6 @@
 
 For files I can call my scripts !
 
-https://raw.githubusercontent.com/Canestin/myResources/main/img/{image}
+Exemple :
+
+https://raw.githubusercontent.com/Canestin/myResources/main/img/twitter.png
