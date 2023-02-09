@@ -4,4 +4,4 @@ For files I can call my scripts !
 
 Exemple :
 
-https://raw.githubusercontent.com/Canestin/myResources/main/img/twitter.png
+https://raw.githubusercontent.com/Canestin/assets/main/img/twitter.png
