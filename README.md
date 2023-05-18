@@ -1,6 +1,4 @@
-# myResources
-
-For files I can call in some scripts!
+# Resources
 
 Exemple :
 
